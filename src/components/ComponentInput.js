@@ -22,6 +22,7 @@ const ComponentInput = ({ title }) => {
         borderRadius="6px"
         borderColor="#E2E8F0"
         type="text"
+        _hover={{ borderColor: '#EC7E83' }}
       />
     </Box>
   );

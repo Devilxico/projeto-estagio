@@ -68,11 +68,17 @@ function App() {
                 />
               )}
               <Grid>
-                <Flex gap={'32px'} direction={{ base: 'column', lg: 'row' }}>
+                <Flex
+                  columnGap="32px"
+                  direction={{ base: 'column', lg: 'row' }}
+                >
                   <ComponentInput title="Name" />
                   <ComponentInput title="Company Name" />
                 </Flex>
-                <Flex gap={'32px'} direction={{ base: 'column', lg: 'row' }}>
+                <Flex
+                  columnGap="32px"
+                  direction={{ base: 'column', lg: 'row' }}
+                >
                   <ComponentInput title="Email" />
                   <ComponentInput title="Phone Number" />
                 </Flex>
@@ -97,6 +103,7 @@ function App() {
                   borderRadius="6px"
                   borderColor="#E2E8F0"
                   type="text"
+                  _hover={{ borderColor: '#EC7E83' }}
                 />
                 <Button
                   background="#EC7E83"
@@ -107,6 +114,7 @@ function App() {
                   height="48px"
                   borderRadius="4px"
                   marginTop="32px"
+                  _hover={{ color: 'white.500' }}
                 >
                   Submit
                 </Button>
@@ -190,7 +198,7 @@ function App() {
                   <Flex gap={2} marginTop="24px">
                     <Image src="icons\PhoneIcon.svg" />
                     <Text
-                      ontSize="16"
+                      fontSize="16"
                       color="#718096"
                       fontWeight="500"
                       lineHeight="normal"
@@ -214,7 +222,7 @@ function App() {
                   <Flex gap={2} marginTop="20px">
                     <Image src="icons\LocationIcon.svg" />
                     <Text
-                      ontSize="16"
+                      fontSize="16"
                       color="#718096"
                       fontWeight="500"
                       lineHeight="normal"
