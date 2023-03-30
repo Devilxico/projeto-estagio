@@ -1,4 +1,4 @@
-# Customer registration 
+# Form Page
 Code challenge proposed for an internship position. It consists of creating a responsive form screen from a prototype using Chakra-UI. 
 
 ![alt text](https://github.com/Devilxico/projeto-estagio/blob/main/public/form.png)
