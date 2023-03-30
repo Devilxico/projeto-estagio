@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/projeto-estagio/static/css/main.da6ca9e8.css",
-    "main.js": "/projeto-estagio/static/js/main.ae1a1b13.js",
+    "main.js": "/projeto-estagio/static/js/main.45d8cac7.js",
     "static/js/787.9d08995b.chunk.js": "/projeto-estagio/static/js/787.9d08995b.chunk.js",
     "static/media/inter-all-700-normal.woff": "/projeto-estagio/static/media/inter-all-700-normal.4caa68a0cd07682d7af5.woff",
     "static/media/inter-all-800-normal.woff": "/projeto-estagio/static/media/inter-all-800-normal.ec3562bf6d6e6d95d602.woff",
@@ -53,11 +53,11 @@
     "static/media/inter-vietnamese-400-normal.woff2": "/projeto-estagio/static/media/inter-vietnamese-400-normal.789afb71d327988e2fc8.woff2",
     "index.html": "/projeto-estagio/index.html",
     "main.da6ca9e8.css.map": "/projeto-estagio/static/css/main.da6ca9e8.css.map",
-    "main.ae1a1b13.js.map": "/projeto-estagio/static/js/main.ae1a1b13.js.map",
+    "main.45d8cac7.js.map": "/projeto-estagio/static/js/main.45d8cac7.js.map",
     "787.9d08995b.chunk.js.map": "/projeto-estagio/static/js/787.9d08995b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da6ca9e8.css",
-    "static/js/main.ae1a1b13.js"
+    "static/js/main.45d8cac7.js"
   ]
 }
